@@ -1,0 +1,12 @@
+img {
+	width: 200px;
+}
+
+p {
+	max-width: 600px;
+}
+
+.bio {
+	display: inline-block;
+	background-color: purple;
+}
